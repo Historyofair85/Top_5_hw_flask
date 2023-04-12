@@ -1,0 +1,7 @@
+venv/
+
+# Ignore the __pycache__
+__pycache__/
+
+# Ignore .vscode   That is for visual studios code settings
+.vscode
